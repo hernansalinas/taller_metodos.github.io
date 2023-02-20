@@ -26,13 +26,22 @@ de metodos computacionales
 
 | Semana 1| Actividad | Fecha Entrega|
 |--------|-----------|
-| Python Básico I | [LAB 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab01_python_basico01.ipynb){: .btn .btn-green }|2/13/23 |
+| Python Básico I | [LAB 1](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab01_python_basico01.ipynb){: .btn .btn-green }|2/13/2023 |
 
 
 
 | Semana 2| Actividad | Fecha Entrega|
 |--------|-----------|
-| Python Básico II| [LAB 2](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab02_python_basico02.ipynb){: .btn .btn-green }| 2/19/23 |
+| Python Básico II| [LAB 2](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab02_python_basico02.ipynb){: .btn .btn-green }| 2/19/2023 |
+
+
+
+
+| Semana 3| Actividad | Fecha Entrega|
+|--------|-----------|
+| Algoritmia y graficación| [LAB 2](https://colab.research.google.com/github/hernansalinas/autogrades/blob/main/Laboratorios_Taller/Lab03_Algoritmia_y_graficacion.ipynb#scrollTo=SkZguDaDeyAZ){: .btn .btn-green }| 2/27/2023 |
+
+
 
 
 
